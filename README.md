@@ -9,7 +9,7 @@ Proyecto solo para versión Desktop.
 
 ## Enlace Deploy
 
-[**Página principal**](https://ruthale19.github.io/iguanaPage/src/index.html) 
+[**Página principal**](https://ruthale19.github.io/iguanaPage/src/) 
 
 
 ## Desarrollado para

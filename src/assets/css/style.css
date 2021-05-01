@@ -86,3 +86,7 @@ footer a{
   text-decoration: none;
   color: #ffffff;
 }
+
+footer a:hover{
+  color: #ffffff;
+}

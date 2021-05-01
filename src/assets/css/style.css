@@ -81,3 +81,8 @@ footer{
     padding: 2.4rem 0;
     background-color: #1E1A13;
 }
+
+footer a{
+  text-decoration: none;
+  color: #ffffff;
+}
